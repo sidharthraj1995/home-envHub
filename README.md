@@ -1,2 +1,3 @@
 # HomeAutomation
-Automating various systems around the house.
+Environment monitoring DHT11 over MQTT
+Network time using NTPClient
